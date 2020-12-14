@@ -1,0 +1,2 @@
+# reg
+If you're checking on regression related projects. Then this project could help you. Regression is a statistical prediction used in many domains to predict the future expectancy by relating to one or more variables. Those variables which helps in predicting are called independent variables and the output we observe for a variable is the dependent variable(as its final output is based on those independent variable/variables). In this project, you can find the code for 1. Simple Linear Regression  2.Logistic Regression 3.Polynomial Regression  
